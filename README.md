@@ -1,1 +1,1 @@
-# text-to-morse
+Hey users, this a simple and brief code developed in python used to translate lowercase letters, words, and phrases to morse code. Because this alphabet only contains letters, omit all punctuation, and refrain from inputting any uppercase letters as they are not compatible with the code. To find the full morse language, click [here](https://www.boxentriq.com/img/morse-code/morse-code-overview.png) 😊.
